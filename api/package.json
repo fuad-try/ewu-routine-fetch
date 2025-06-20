@@ -1,0 +1,13 @@
+{
+  "name": "ewubd-portal-api",
+  "version": "1.0.0",
+  "description": "A Node.js API to fetch EWUBD portal data.",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.x.x",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
